@@ -1,4 +1,3 @@
----
 name: Website Status Request
 about: Request a Website Status to add to the repo
 title: '[Request] Add Website'
@@ -14,5 +13,3 @@ body:
       value: "- "
     validations:
       required: true
-
----
