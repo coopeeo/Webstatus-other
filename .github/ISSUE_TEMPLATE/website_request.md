@@ -4,12 +4,14 @@ about: Request a Website Status to add to the repo
 title: '[Request] Add Website'
 labels: 'website request'
 assignees: 'CoopPlayzz'
+body:
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: Add Websites
+      description: add the service you want us to add
+      placeholder: (e.g "- google.com")
+      value: "- "
+    validations:
+      required: true
 
----
-
-List the service(s) you want to add:
- - 
- -
-
-
-<!-- At least one is required-->
