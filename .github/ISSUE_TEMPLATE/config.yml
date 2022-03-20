@@ -1,16 +1,16 @@
 blank_issues_enabled: true
 contact_links:
   - name: Web Request | Electroncic Brands
-    url: https://github.com/CoopPlayzz/Webstatus-electronicbrands/issues/new?assignees=CoopPlayzz&labels=website+request&template=website_request.md&title=%5BRequest%5D+Add+Website
+    url: https://github.com/CoopPlayzz/Webstatus-electronicbrands/issues/new?assignees=CoopPlayzz&labels=website+request&template=website_request.yml&title=%5BRequest%5D+Add+Website
     about: Send a Web Request
   - name: Web Request | Games
-    url: https://github.com/CoopPlayzz/Webstatus-games/issues/new?assignees=CoopPlayzz&labels=website+request&template=website_request.md&title=%5BRequest%5D+Add+Website
+    url: https://github.com/CoopPlayzz/Webstatus-games/issues/new?assignees=CoopPlayzz&labels=website+request&template=website_request.yml&title=%5BRequest%5D+Add+Website
     about: Send a Web Request
 
   - name: Web Request | Sports
-    url: https://github.com/CoopPlayzz/Webstatus-sports/issues/new?assignees=CoopPlayzz&labels=website+request&template=website_request.md&title=%5BRequest%5D+Add+Website
+    url: https://github.com/CoopPlayzz/Webstatus-sports/issues/new?assignees=CoopPlayzz&labels=website+request&template=website_request.yml&title=%5BRequest%5D+Add+Website
     about: Send a Web Request
     
   #- name: Web Request | Other
-  #  url: https://github.com/CoopPlayzz/Webstatus-other/issues/new?assignees=CoopPlayzz&labels=website+request&template=website_request.md&title=%5BRequest%5D+Add+Website
+  #  url: https://github.com/CoopPlayzz/Webstatus-other/issues/new?assignees=CoopPlayzz&labels=website+request&template=website_request.yml&title=%5BRequest%5D+Add+Website
   #  about: Send a Web Request
