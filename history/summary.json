@@ -4,19 +4,19 @@
     "url": "https:/$COOPWEBSITE/",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "the-coop-computer-by-coop",
-    "status": "down",
-    "uptime": "65.57%",
-    "uptimeDay": "65.17%",
-    "uptimeWeek": "65.57%",
-    "uptimeMonth": "65.57%",
-    "uptimeYear": "65.57%",
-    "time": 349,
-    "timeDay": 360,
-    "timeWeek": 349,
-    "timeMonth": 349,
-    "timeYear": 349,
+    "status": "up",
+    "uptime": "58.57%",
+    "uptimeDay": "53.06%",
+    "uptimeWeek": "58.57%",
+    "uptimeMonth": "58.57%",
+    "uptimeYear": "58.57%",
+    "time": 370,
+    "timeDay": 383,
+    "timeWeek": 370,
+    "timeMonth": 370,
+    "timeYear": 370,
     "dailyMinutesDown": {
-      "2022-03-21": 502
+      "2022-03-21": 676
     }
   }
 ]
