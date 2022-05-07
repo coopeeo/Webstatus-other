@@ -4,7 +4,7 @@ repo: Webstatus-other # The name of this repository
 
 sites:
   - name: The Coop Computer [By Coop]
-    url: https:/$COOPWEBSITE/
+    url: http:/$COOPWEBSITE/
 
 
 status-website:
