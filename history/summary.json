@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "the-coop-computer-by-coop",
     "status": "down",
-    "uptime": "18.67%",
+    "uptime": "18.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "16.30%",
-    "time": 651,
+    "time": 654,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 477,
     "dailyMinutesDown": {
-      "2023-07-22": 35,
+      "2023-07-23": 38,
+      "2023-07-22": 1440,
       "2023-07-21": 1440,
       "2023-07-20": 1440,
       "2023-07-19": 1440,
@@ -325,8 +326,7 @@
       "2022-07-27": 1440,
       "2022-07-26": 1440,
       "2022-07-25": 1440,
-      "2022-07-24": 1440,
-      "2022-07-23": 1440
+      "2022-07-24": 1440
     }
   }
 ]
